@@ -1,0 +1,3 @@
+The project is about **IOT** where we first, built a robotic car using ESP32, wires, motors, wheels, etc....
+Second, established an **MQTT** server so we can publish and subscribe to subjects.
+Finally, building a flutter appliction that connects to the server as well as authenticating the users using **firebase** cloud and to control the car either manually or automatically. 
